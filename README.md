@@ -1,13 +1,13 @@
 
 # Hello, I'm Saksham 👋
-![](https://komarev.com/ghpvc/?username=E-Saksham)
+![](https://komarev.com/ghpvc/?username=Saksham2371)
 
 I am a recent Computer Science and Engineering graduate from Chitkara University, Rajpura Punjab, with a keen interest in software engineering and development. I am constantly learning and exploring new technologies to improve my skills and knowledge.
 
 
 ## About Me       
 
--   🌱 I’m currently learning NodeJs
+-   🌱 I’m currently learning ReactJs
 -   💬 Ask me about Web Development
 -   📫 How to reach me: sakshamsahani12@gmail.com
 -   😄 Pronouns:He/him
