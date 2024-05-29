@@ -42,6 +42,7 @@ I am a recent Computer Science and Engineering graduate from Chitkara University
 ## Projects
 
 1.  [Health Measure-BMI Calculator](https://saksham2371.github.io/Health-Measures/) - This landing page provides information on body postures, calculates body mass index (BMI), guides users to their body category, and mentions the project creator. It also offers a support contact for users who need assistance.
+2.  [Pizza Website](https://saksham2371.github.io/Ete-project/) - Chitkarian Pizza is an engaging and user-friendly website designed to offer an exceptional online ordering experience for pizza lovers. The website features a clean and intuitive layout, ensuring that users can easily navigate through the various sections to find their desired pizzas, sides, beverages, and desserts.
 
 
 ## Education
