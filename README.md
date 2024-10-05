@@ -7,7 +7,7 @@ I am a recent Computer Science and Engineering graduate from Chitkara University
 
 ## About Me       
 
--   🌱 I’m currently learning Heap(DSA)
+-   🌱 I’m currently learning Lists(DSA)
 -   💬 Ask me about Web Development
 -   📫 How to reach me: sakshamsahani12@gmail.com
 -   😄 Pronouns:He/him
