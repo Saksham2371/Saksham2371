@@ -65,5 +65,6 @@ I am a recent Computer Science and Engineering graduate from Chitkara University
 
 ## Contact
 
+-   Phone No: 8755014303
 -   Email: sakshamsahani12@gmail.com
 -   LinkedIn: www.linkedin.com/in/saksham-sahani-2a57311b6
